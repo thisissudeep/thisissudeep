@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Sudeep </h1>
 <h3 align="left">Software Developer</h3>
 
-👨‍💻 I’m currently pursuing final year and exploring **FULLSTACK & AI** domains.
+👨‍💻 I’m currently pursuing final year and exploring **Java & AI** Development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
